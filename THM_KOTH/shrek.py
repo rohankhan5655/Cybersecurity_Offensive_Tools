@@ -9,6 +9,7 @@ banner = """
 |    Made by: Muhamad Rohan Khan |
 [+]==============================[+]
 
+Difficulty: — EASY
 Follow me on linkedin:- https://www.linkedin.com/in/muhammadrohankhan
 """
 print(banner)
