@@ -35,7 +35,7 @@ I have created a **complete PDF write-up** that documents every step, including:
 
 > 📘 **Download the full PDF write-up below:**
 
-🔗 [Download Wreath Network Exploitation Report (PDF)](https://raw.githubusercontent.com/yourusername/your-repo/main/wreath-network-writeup.pdf)
+🔗 [Download Wreath Network Exploitation Report (PDF)](https://raw.githubusercontent.com/rohankhan5655/Cybersecurity_Offensive_Tools/blob/main/Wreath-thm/wreath-thm.pdf)
 
 ---
 
