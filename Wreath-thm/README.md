@@ -42,7 +42,7 @@ I have created a **complete PDF write-up** that documents every step, including:
 ## 👤 Author
 
 - **Name:** Muhamad Rohan Khan  
-- **TryHackMe:** [Rohan5655](https://tryhackme.com/p/MuhammadRohanKhan)  
+- **TryHackMe:** [MuhammadRohanKhan](https://tryhackme.com/p/MuhammadRohanKhan)  
 - **GitHub:** [@rohankhan5655](https://github.com/rohankhan5655)  
 
 ---
